@@ -2,7 +2,7 @@
 
 This repository contains a comprehensive, educational template for creating a Statement of Applicability (SoA) aligned with the ISO/IEC 27001:2022 standard for information security management.
 
-This resource is designed to help information security professionals, auditors, and students streamline their transition to the new standard or implement an ISMS from scratch.
+This template was developed as part of the official ISO 27001:2022 transition project at **Capital Outsourcing** and is shared with their permission to benefit the broader information security community.
 
 ---
 
@@ -33,4 +33,4 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ### Feedback
 
-Feedback and suggestions are welcome! Feel free to open an "Issue" in this repository or connect with me on LinkedIn.
+Feedback and suggestions are welcome! Feel free to open an "Issue" in this repository or connect with me on LinkedIn: [Abed Al-Rahman Naboulsi](https://www.linkedin.com/in/abed-al-rahman-naboulsi/)
