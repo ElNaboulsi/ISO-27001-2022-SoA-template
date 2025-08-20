@@ -1,0 +1,18 @@
+﻿1. Purpose of This Document
+This document is an educational template designed to help organizations transition to or implement an Information Security Management System (ISMS) aligned with ISO/IEC 27001:2022. It provides a structured format for creating a Statement of Applicability.
+
+2. IMPORTANT DISCLAIMER
+"This is a generic template and must not be used as-is. Every organization is unique. You must customize this SoA based on your own specific legal, statutory, regulatory, contractual, and business requirements, as well as the results of your formal information security risk assessment. The applicability of controls and the evidence required will differ for every organization."
+
+3. Column Definitions
+ISO 27001:2022 ID: The official control identifier from Annex A of ISO/IEC 27001:2022.
+Control Title: The official title of the control.
+"Control Theme: The category the control belongs to (Organizational, People, Physical, or Technological)."
+"ISO 27001:2013 ID: The corresponding control ID from the 2013 version, where applicable. ""New"" indicates a new control in the 2022 version."
+Applicability (Yes/No): State whether you are implementing this control.
+"Justification for Applicability: This is a critical column. Explain why the control is applicable or not. Your justification should be based on:
+* Requirements from your risk treatment process (e.g., ""Required to treat risk identified in Risk Register as R-045"").
+* Legal, statutory, or regulatory requirements (e.g., ""Required to comply with GDPR Article 32"").
+* Contractual requirements (e.g., ""Required by clause 7.2 in client contract XYZ"").
+* Other business requirements."
+"Sample Evidence Description: Examples of the documents, records, or technical configurations you could use to prove to an auditor that the control is implemented effectively. These are examples—your actual evidence may vary."
